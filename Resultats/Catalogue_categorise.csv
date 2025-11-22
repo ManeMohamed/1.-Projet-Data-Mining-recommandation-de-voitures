@@ -1,0 +1,161 @@
+marque,nom,puissance,longueur,nbPlaces,nbPortes,couleur,occasion,prix,longueur_num,cluster,categorie
+Volvo,S80 T6,272,très longue,5,5,blanc,False,50500,4,1,Berlines familiales
+Volvo,S80 T6,272,très longue,5,5,noir,False,50500,4,1,Berlines familiales
+Volvo,S80 T6,272,très longue,5,5,rouge,False,50500,4,1,Berlines familiales
+Volvo,S80 T6,272,très longue,5,5,gris,False,50500,4,1,Berlines familiales
+Volvo,S80 T6,272,très longue,5,5,bleu,False,50500,4,1,Berlines familiales
+Volkswagen,Touran 2.0 FSI,150,longue,7,5,rouge,False,27340,3,0,Citadines économiques
+Volkswagen,Touran 2.0 FSI,150,longue,7,5,gris,False,27340,3,0,Citadines économiques
+Volkswagen,Touran 2.0 FSI,150,longue,7,5,bleu,False,27340,3,0,Citadines économiques
+Volkswagen,Touran 2.0 FSI,150,longue,7,5,blanc,False,27340,3,0,Citadines économiques
+Volkswagen,Touran 2.0 FSI,150,longue,7,5,noir,False,27340,3,0,Citadines économiques
+Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,False,12200,1,2,Voitures premium
+Volkswagen,Polo 1.2 6V,55,courte,5,3,noir,False,12200,1,2,Voitures premium
+Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,False,12200,1,2,Voitures premium
+Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,False,12200,1,2,Voitures premium
+Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,False,12200,1,2,Voitures premium
+Volkswagen,New Beatle 1.8,110,moyenne,5,5,rouge,False,26630,2,1,Berlines familiales
+Volkswagen,New Beatle 1.8,110,moyenne,5,5,gris,False,26630,2,1,Berlines familiales
+Volkswagen,New Beatle 1.8,110,moyenne,5,5,bleu,False,26630,2,1,Berlines familiales
+Volkswagen,New Beatle 1.8,110,moyenne,5,5,blanc,False,26630,2,1,Berlines familiales
+Volkswagen,New Beatle 1.8,110,moyenne,5,5,noir,False,26630,2,1,Berlines familiales
+Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,blanc,False,22900,2,1,Berlines familiales
+Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,noir,False,22900,2,1,Berlines familiales
+Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,bleu,False,22900,2,1,Berlines familiales
+Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,False,22900,2,1,Berlines familiales
+Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,gris,False,22900,2,1,Berlines familiales
+Skoda,Superb 2.8 V6,193,très longue,5,5,rouge,False,31790,4,1,Berlines familiales
+Skoda,Superb 2.8 V6,193,très longue,5,5,gris,False,31790,4,1,Berlines familiales
+Skoda,Superb 2.8 V6,193,très longue,5,5,bleu,False,31790,4,1,Berlines familiales
+Skoda,Superb 2.8 V6,193,très longue,5,5,noir,False,31790,4,1,Berlines familiales
+Skoda,Superb 2.8 V6,193,très longue,5,5,blanc,False,31790,4,1,Berlines familiales
+Seat,Toledo 1.6,102,longue,5,5,blanc,False,18880,3,1,Berlines familiales
+Seat,Toledo 1.6,102,longue,5,5,noir,False,18880,3,1,Berlines familiales
+Seat,Toledo 1.6,102,longue,5,5,rouge,False,18880,3,1,Berlines familiales
+Seat,Toledo 1.6,102,longue,5,5,gris,False,18880,3,1,Berlines familiales
+Seat,Toledo 1.6,102,longue,5,5,bleu,False,18880,3,1,Berlines familiales
+Saab,9.3 1.8T,150,longue,5,5,gris,False,38600,3,1,Berlines familiales
+Saab,9.3 1.8T,150,longue,5,5,bleu,False,38600,3,1,Berlines familiales
+Saab,9.3 1.8T,150,longue,5,5,noir,False,38600,3,1,Berlines familiales
+Saab,9.3 1.8T,150,longue,5,5,rouge,False,38600,3,1,Berlines familiales
+Saab,9.3 1.8T,150,longue,5,5,blanc,False,38600,3,1,Berlines familiales
+Renault,Vel Satis 3.5 V6,245,très longue,5,5,gris,False,49200,4,1,Berlines familiales
+Renault,Vel Satis 3.5 V6,245,très longue,5,5,bleu,False,49200,4,1,Berlines familiales
+Renault,Vel Satis 3.5 V6,245,très longue,5,5,blanc,False,49200,4,1,Berlines familiales
+Renault,Vel Satis 3.5 V6,245,très longue,5,5,noir,False,49200,4,1,Berlines familiales
+Renault,Vel Satis 3.5 V6,245,très longue,5,5,rouge,False,49200,4,1,Berlines familiales
+Renault,Megane 2.0 16V,135,moyenne,5,5,gris,False,22350,2,1,Berlines familiales
+Renault,Megane 2.0 16V,135,moyenne,5,5,bleu,False,22350,2,1,Berlines familiales
+Renault,Megane 2.0 16V,135,moyenne,5,5,blanc,False,22350,2,1,Berlines familiales
+Renault,Megane 2.0 16V,135,moyenne,5,5,noir,False,22350,2,1,Berlines familiales
+Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,False,22350,2,1,Berlines familiales
+Renault,Laguna 2.0T,170,longue,5,5,gris,False,27300,3,1,Berlines familiales
+Renault,Laguna 2.0T,170,longue,5,5,bleu,False,27300,3,1,Berlines familiales
+Renault,Laguna 2.0T,170,longue,5,5,rouge,False,27300,3,1,Berlines familiales
+Renault,Laguna 2.0T,170,longue,5,5,noir,False,27300,3,1,Berlines familiales
+Renault,Laguna 2.0T,170,longue,5,5,blanc,False,27300,3,1,Berlines familiales
+Renault,Espace 2.0T,165,longue,7,5,noir,False,30350,3,0,Citadines économiques
+Renault,Espace 2.0T,165,longue,7,5,bleu,False,30350,3,0,Citadines économiques
+Renault,Espace 2.0T,165,longue,7,5,rouge,False,30350,3,0,Citadines économiques
+Renault,Espace 2.0T,165,longue,7,5,blanc,False,30350,3,0,Citadines économiques
+Renault,Espace 2.0T,165,longue,7,5,gris,False,30350,3,0,Citadines économiques
+Peugeot,1007 1.4,75,courte,5,5,noir,False,13750,1,1,Berlines familiales
+Peugeot,1007 1.4,75,courte,5,5,gris,False,13750,1,1,Berlines familiales
+Peugeot,1007 1.4,75,courte,5,5,rouge,False,13750,1,1,Berlines familiales
+Peugeot,1007 1.4,75,courte,5,5,blanc,False,13750,1,1,Berlines familiales
+Peugeot,1007 1.4,75,courte,5,5,bleu,False,13750,1,1,Berlines familiales
+Nissan,Primera 1.6,109,longue,5,5,noir,False,18650,3,1,Berlines familiales
+Nissan,Primera 1.6,109,longue,5,5,bleu,False,18650,3,1,Berlines familiales
+Nissan,Primera 1.6,109,longue,5,5,rouge,False,18650,3,1,Berlines familiales
+Nissan,Primera 1.6,109,longue,5,5,gris,False,18650,3,1,Berlines familiales
+Nissan,Primera 1.6,109,longue,5,5,blanc,False,18650,3,1,Berlines familiales
+Nissan,Maxima 3.0 V6,200,très longue,5,5,noir,False,30000,4,1,Berlines familiales
+Nissan,Maxima 3.0 V6,200,très longue,5,5,gris,False,30000,4,1,Berlines familiales
+Nissan,Maxima 3.0 V6,200,très longue,5,5,bleu,False,30000,4,1,Berlines familiales
+Nissan,Maxima 3.0 V6,200,très longue,5,5,rouge,False,30000,4,1,Berlines familiales
+Nissan,Maxima 3.0 V6,200,très longue,5,5,blanc,False,30000,4,1,Berlines familiales
+Nissan,Almera 1.8,115,moyenne,5,5,gris,False,16450,2,1,Berlines familiales
+Nissan,Almera 1.8,115,moyenne,5,5,bleu,False,16450,2,1,Berlines familiales
+Nissan,Almera 1.8,115,moyenne,5,5,noir,False,16450,2,1,Berlines familiales
+Nissan,Almera 1.8,115,moyenne,5,5,rouge,False,16450,2,1,Berlines familiales
+Nissan,Almera 1.8,115,moyenne,5,5,blanc,False,16450,2,1,Berlines familiales
+Mini,Copper 1.6 16V,115,courte,5,5,gris,False,18200,1,1,Berlines familiales
+Mini,Copper 1.6 16V,115,courte,5,5,bleu,False,18200,1,1,Berlines familiales
+Mini,Copper 1.6 16V,115,courte,5,5,rouge,False,18200,1,1,Berlines familiales
+Mini,Copper 1.6 16V,115,courte,5,5,noir,False,18200,1,1,Berlines familiales
+Mini,Copper 1.6 16V,115,courte,5,5,blanc,False,18200,1,1,Berlines familiales
+Mercedes,S500,306,très longue,5,5,bleu,False,101300,4,3,Grands monospaces
+Mercedes,S500,306,très longue,5,5,noir,False,101300,4,3,Grands monospaces
+Mercedes,S500,306,très longue,5,5,blanc,False,101300,4,3,Grands monospaces
+Mercedes,S500,306,très longue,5,5,rouge,False,101300,4,3,Grands monospaces
+Mercedes,S500,306,très longue,5,5,gris,False,101300,4,3,Grands monospaces
+Mercedes,A200,136,moyenne,5,5,blanc,False,25900,2,1,Berlines familiales
+Mercedes,A200,136,moyenne,5,5,noir,False,25900,2,1,Berlines familiales
+Mercedes,A200,136,moyenne,5,5,rouge,False,25900,2,1,Berlines familiales
+Mercedes,A200,136,moyenne,5,5,gris,False,25900,2,1,Berlines familiales
+Mercedes,A200,136,moyenne,5,5,bleu,False,25900,2,1,Berlines familiales
+Lancia,Ypsilon 1.4 16V,90,courte,5,3,rouge,False,13500,1,2,Voitures premium
+Lancia,Ypsilon 1.4 16V,90,courte,5,3,gris,False,13500,1,2,Voitures premium
+Lancia,Ypsilon 1.4 16V,90,courte,5,3,bleu,False,13500,1,2,Voitures premium
+Lancia,Ypsilon 1.4 16V,90,courte,5,3,noir,False,13500,1,2,Voitures premium
+Lancia,Ypsilon 1.4 16V,90,courte,5,3,blanc,False,13500,1,2,Voitures premium
+Kia,Picanto 1.1,65,courte,5,5,blanc,False,8990,1,1,Berlines familiales
+Kia,Picanto 1.1,65,courte,5,5,gris,False,8990,1,1,Berlines familiales
+Kia,Picanto 1.1,65,courte,5,5,noir,False,8990,1,1,Berlines familiales
+Kia,Picanto 1.1,65,courte,5,5,rouge,False,8990,1,1,Berlines familiales
+Kia,Picanto 1.1,65,courte,5,5,bleu,False,8990,1,1,Berlines familiales
+Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,False,37100,3,1,Berlines familiales
+Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,False,37100,3,1,Berlines familiales
+Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,False,37100,3,1,Berlines familiales
+Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,False,37100,3,1,Berlines familiales
+Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,False,37100,3,1,Berlines familiales
+Hyundaï,Matrix 1.6,103,longue,7,5,bleu,False,15960,3,0,Citadines économiques
+Hyundaï,Matrix 1.6,103,longue,7,5,blanc,False,15960,3,0,Citadines économiques
+Hyundaï,Matrix 1.6,103,longue,7,5,gris,False,15960,3,0,Citadines économiques
+Hyundaï,Matrix 1.6,103,longue,7,5,noir,False,15960,3,0,Citadines économiques
+Hyundaï,Matrix 1.6,103,longue,7,5,rouge,False,15960,3,0,Citadines économiques
+Honda,FR-V 1.7,125,longue,7,5,noir,False,19550,3,0,Citadines économiques
+Honda,FR-V 1.7,125,longue,7,5,bleu,False,19550,3,0,Citadines économiques
+Honda,FR-V 1.7,125,longue,7,5,gris,False,19550,3,0,Citadines économiques
+Honda,FR-V 1.7,125,longue,7,5,blanc,False,19550,3,0,Citadines économiques
+Honda,FR-V 1.7,125,longue,7,5,rouge,False,19550,3,0,Citadines économiques
+Ford,Mondeo 1.8,125,longue,5,5,bleu,False,23900,3,1,Berlines familiales
+Ford,Mondeo 1.8,125,longue,5,5,blanc,False,23900,3,1,Berlines familiales
+Ford,Mondeo 1.8,125,longue,5,5,noir,False,23900,3,1,Berlines familiales
+Ford,Mondeo 1.8,125,longue,5,5,gris,False,23900,3,1,Berlines familiales
+Ford,Mondeo 1.8,125,longue,5,5,rouge,False,23900,3,1,Berlines familiales
+Fiat,Croma 2.2,147,longue,5,5,rouge,False,24780,3,1,Berlines familiales
+Fiat,Croma 2.2,147,longue,5,5,bleu,False,24780,3,1,Berlines familiales
+Fiat,Croma 2.2,147,longue,5,5,blanc,False,24780,3,1,Berlines familiales
+Fiat,Croma 2.2,147,longue,5,5,noir,False,24780,3,1,Berlines familiales
+Fiat,Croma 2.2,147,longue,5,5,gris,False,24780,3,1,Berlines familiales
+Daihatsu,Cuore 1.0,58,courte,5,3,noir,False,8850,1,2,Voitures premium
+Daihatsu,Cuore 1.0,58,courte,5,3,blanc,False,8850,1,2,Voitures premium
+Daihatsu,Cuore 1.0,58,courte,5,3,rouge,False,8850,1,2,Voitures premium
+Daihatsu,Cuore 1.0,58,courte,5,3,bleu,False,8850,1,2,Voitures premium
+Daihatsu,Cuore 1.0,58,courte,5,3,gris,False,8850,1,2,Voitures premium
+Dacia,Logan 1.6 MPI,90,moyenne,5,5,blanc,False,7500,2,1,Berlines familiales
+Dacia,Logan 1.6 MPI,90,moyenne,5,5,rouge,False,7500,2,1,Berlines familiales
+Dacia,Logan 1.6 MPI,90,moyenne,5,5,noir,False,7500,2,1,Berlines familiales
+Dacia,Logan 1.6 MPI,90,moyenne,5,5,gris,False,7500,2,1,Berlines familiales
+Dacia,Logan 1.6 MPI,90,moyenne,5,5,bleu,False,7500,2,1,Berlines familiales
+BMW,M5,507,très longue,5,5,gris,False,94800,4,3,Grands monospaces
+BMW,M5,507,très longue,5,5,blanc,False,94800,4,3,Grands monospaces
+BMW,M5,507,très longue,5,5,noir,False,94800,4,3,Grands monospaces
+BMW,M5,507,très longue,5,5,bleu,False,94800,4,3,Grands monospaces
+BMW,M5,507,très longue,5,5,rouge,False,94800,4,3,Grands monospaces
+BMW,120i,150,moyenne,5,5,bleu,False,35800,2,1,Berlines familiales
+BMW,120i,150,moyenne,5,5,blanc,False,35800,2,1,Berlines familiales
+BMW,120i,150,moyenne,5,5,gris,False,35800,2,1,Berlines familiales
+BMW,120i,150,moyenne,5,5,rouge,False,35800,2,1,Berlines familiales
+BMW,120i,150,moyenne,5,5,noir,False,35800,2,1,Berlines familiales
+Audi,A3 2.0 FSI,150,moyenne,5,5,noir,False,28500,2,1,Berlines familiales
+Audi,A3 2.0 FSI,150,moyenne,5,5,rouge,False,28500,2,1,Berlines familiales
+Audi,A3 2.0 FSI,150,moyenne,5,5,blanc,False,28500,2,1,Berlines familiales
+Audi,A3 2.0 FSI,150,moyenne,5,5,bleu,False,28500,2,1,Berlines familiales
+Audi,A3 2.0 FSI,150,moyenne,5,5,gris,False,28500,2,1,Berlines familiales
+Audi,A2 1.4,75,courte,5,5,bleu,False,18310,1,1,Berlines familiales
+Audi,A2 1.4,75,courte,5,5,gris,False,18310,1,1,Berlines familiales
+Audi,A2 1.4,75,courte,5,5,noir,False,18310,1,1,Berlines familiales
+Audi,A2 1.4,75,courte,5,5,rouge,False,18310,1,1,Berlines familiales
+Audi,A2 1.4,75,courte,5,5,blanc,False,18310,1,1,Berlines familiales
